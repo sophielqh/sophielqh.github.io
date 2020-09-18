@@ -11,7 +11,7 @@ Department of Information Management, GPA: **3.75/ 4.0**
 _Bachelor of Information Management and Information System_,  
 Department of Information Management, GPA: **3.57/ 4.0**
 
-**Hong Kong City University, Hong Kong, China**  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;01/2017 - 06/2017  
+**Hong Kong City University, Hong Kong, China**&ensp;&ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;01/2017 - 06/2017  
 Department of Information Management, exchange semester GPA: **3.78/ 4.3**
 
 **TOEFL** Total 102 (Reading 30, Listening 25, Speaking 22, Writing 25),  
@@ -19,40 +19,33 @@ Department of Information Management, exchange semester GPA: **3.78/ 4.3**
 
 ### Research Experience
 **Video data analysis for preschooler development**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;03/2020 - Present  
-_Advisor: Win-Bin Huang, Associate Professor, Department of Information Management_
-> Researching on the key characteristics for preschooler development
-> Labeling behavior sequences from video data to discover latent patterns
+_Advisor: Win-Bin Huang, Associate Professor, Department of Information Management_  
+Researching on the key characteristics for preschooler development; labeling behavior sequences from video data to discover latent patterns.
 
 **Learning path generation for data science course** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;10/2019 - Present  
-_Advisor: Win-Bin Huang, Associate Professor, Department of Information Management_
-- Researching on the framework and technologies of adaptive learning system
-- Conducting comparative experiment to verify automatically generated learning path
+_Advisor: Win-Bin Huang, Associate Professor, Department of Information Management_  
+Researching on the framework and technologies of adaptive learning system; conducting comparative experiment to verify automatically generated learning path.
 
 **Educational data mining for platform improvement**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;11/2017 - 05/2018  
-_Advisor: Win-Bin Huang, Associate Professor, Department of Information Management_
-- Analyzed platform data in support of personalized learning
-- Improved data collection scheme for an IT professional online learning platform with 100+ students
+_Advisor: Win-Bin Huang, Associate Professor, Department of Information Management_  
+Analyzed platform data in support of personalized learning; improved data collection scheme for an IT professional online learning platform with 100+ students.
 
-**Data stream processing system development**  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;10/2017 - 05/2018  
-_Advisor: Tong Yang, Assistant Researcher, School of Electronics Engineering and Computer Science_
-- Constructed a data stream processing algorithm benchmark platform
-- Developed a word cloud webpage to represent word co-occurrence from 130 million webpages
+**Data stream processing system development**&ensp;&ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;10/2017 - 05/2018  
+_Advisor: Tong Yang, Assistant Researcher, School of Electronics Engineering and Computer Science_  
+Constructed a data stream processing algorithm benchmark platform; developed a word cloud webpage to represent word co-occurrence from 130 million webpages.
 
 ### Teaching Experience
-**Data analysis course designer** | Intern Teacher |  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;06/2018 - 03/2020  
-Beijing Aptech Beida Jade Bird Information Technology Co., Ltd.
-- Designed the outline and cases for data analysis course
--	Prepared teaching materials and exercises related to historical, financial, job, and e-commerce data analysis
+**Data analysis course designer** | Intern Teacher |&ensp;&ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;06/2018 - 03/2020  
+Beijing Aptech Beida Jade Bird Information Technology Co., Ltd.  
+Designed the outline and cases for data analysis course; prepared teaching materials and exercises related to historical, financial, job, and e-commerce data analysis.
 
 **MIS and E-commerce** | Teaching Assistant | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;09/2017 - 12/2017, 09/2018 - 12/2018  
-Peking University
-- Arranged and evaluated assignments every week and the final examination
-- Answered course questions online two hours each semester
+Peking University  
+Arranged and evaluated assignments every week and the final examination; answered course questions online two hours each semester.
 
 **High school chemistry lecturer** | Intern Teacher | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;10/2015 - 12/2016  
-Beijing Chuangzhilu Education Technology Co., Ltd.
-- Recorded high school chemistry video lessons
-- Wrote high school chemistry exercise book
+Beijing Chuangzhilu Education Technology Co., Ltd.  
+Recorded high school chemistry video lessons; wrote high school chemistry exercise book.
 
 ### Publication
 Xiao, R., **Liu, Q.\***, Shang, J., & Huang, WB. A Study of Identifying Student Engagement Based on the ICAP Framework \[in Chinese\]. _Distance Education in China_ \[in press, rejected by LAK2020\].  
@@ -73,7 +66,7 @@ Xu, Y.\*, Teng, F., & **Liu, Q**. (2017, May). Management information systems fo
 
 ### Awards and Honors
 Excellent Graduate Award in Peking University &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2019  
-Wang Laoji Scholarship in Peking University &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2018  
+Wang Laoji Scholarship in Peking University&ensp;&ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2018  
 Wusi Youth Scholarship in Peking University &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2016
 
 ### Skills
