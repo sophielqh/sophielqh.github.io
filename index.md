@@ -19,8 +19,8 @@ Department of Information Management, exchange semester GPA: **3.78/ 4.3**
 ### Research Experience
 **Video data analysis for preschooler development**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;03/2020 - Present  
 _Advisor: Win-Bin Huang, Associate Professor, Department of Information Management_
--Researching on the key characteristics for preschooler development
--Labeling behavior sequences from video data to discover latent patterns
+ \cdot Researching on the key characteristics for preschooler development
+ \cdot Labeling behavior sequences from video data to discover latent patterns
 
 **Learning path generation for data science course**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;10/2019 - Present  
 _Advisor: Win-Bin Huang, Associate Professor, Department of Information Management_
