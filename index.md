@@ -10,7 +10,7 @@ Department of Information Management, GPA: **3.75/ 4.0**
 _Bachelor of Information Management and Information System_,  
 Department of Information Management, GPA: **3.57/ 4.0**
 
-**Hong Kong City University, Hong Kong, China**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;01/2017 - 06/2017  
+**Hong Kong City University, Hong Kong, China**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;01/2017 - 06/2017  
 Department of Information Management, exchange semester GPA: **3.78/ 4.3**
 
 **TOEFL** Total 102 (Reading 30, Listening 25, Speaking 22, Writing 25),  
@@ -32,7 +32,7 @@ _Advisor: Win-Bin Huang, Associate Professor, Department of Information Manageme
 - Analyzed platform data in support of personalized learning
 - Improved data collection scheme for an IT professional online learning platform with 100+ students
 
-**Data stream processing system development**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;10/2017 - 05/2018  
+**Data stream processing system development**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;10/2017 - 05/2018  
 _Advisor: Tong Yang, Assistant Researcher, School of Electronics Engineering and Computer Science_
 - Constructed a data stream processing algorithm benchmark platform
 - Developed a word cloud webpage to represent word co-occurrence from 130 million webpages
@@ -64,9 +64,9 @@ Xu, Y.\*, Teng, F., & **Liu, Q**. (2017, May). Management information systems fo
 \[Working paper\] Gao, J., **Liu, Q.**, & Huang, WB\*. A Method of Learning Path Generation Based on Knowledge Graph.
 
 ### Awards and Honors
-Excellent Graduate Award in Peking University&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2019  
-Wang Laoji Scholarship in Peking University&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2018  
-Wusi Youth Scholarship in Peking University&nbsp;2016
+Excellent Graduate Award in Peking University&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2019  
+Wang Laoji Scholarship in Peking University&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2018  
+Wusi Youth Scholarship in Peking University&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2016
 
 ### Skills
 Python, SQL, SPSS, C, HTML
