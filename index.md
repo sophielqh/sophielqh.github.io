@@ -10,35 +10,35 @@ Department of Information Management, GPA: **3.75/ 4.0**
 _Bachelor of Information Management and Information System_,  
 Department of Information Management, GPA: **3.57/ 4.0**
 
-**Hong Kong City University, Hong Kong, China**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;01/2017 - 06/2017  
+**Hong Kong City University, Hong Kong, China**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;01/2017 - 06/2017  
 Department of Information Management, exchange semester GPA: **3.78/ 4.3**
 
 **TOEFL** Total 102 (Reading 30, Listening 25, Speaking 22, Writing 25),  
 **GRE** Quantitative 152, Verbal 170, AW 4.5
 
 ### Research Experience
-**Video data analysis for preschooler development**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;03/2020 - Present  
+**Video data analysis for preschooler development**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;03/2020 - Present  
 _Advisor: Win-Bin Huang, Associate Professor, Department of Information Management_
-- Researching on the key characteristics for preschooler development
-- Labeling behavior sequences from video data to discover latent patterns
+-Researching on the key characteristics for preschooler development
+-Labeling behavior sequences from video data to discover latent patterns
 
 **Learning path generation for data science course**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;10/2019 - Present  
 _Advisor: Win-Bin Huang, Associate Professor, Department of Information Management_
 - Researching on the framework and technologies of adaptive learning system
 - Conducting comparative experiment to verify automatically generated learning path
 
-**Educational data mining for platform improvement**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;11/2017 - 05/2018  
+**Educational data mining for platform improvement**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;11/2017 - 05/2018  
 _Advisor: Win-Bin Huang, Associate Professor, Department of Information Management_
 - Analyzed platform data in support of personalized learning
 - Improved data collection scheme for an IT professional online learning platform with 100+ students
 
-**Data stream processing system development**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;10/2017 - 05/2018  
+**Data stream processing system development**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;10/2017 - 05/2018  
 _Advisor: Tong Yang, Assistant Researcher, School of Electronics Engineering and Computer Science_
 - Constructed a data stream processing algorithm benchmark platform
 - Developed a word cloud webpage to represent word co-occurrence from 130 million webpages
 
 ### Teaching Experience
-**Data analysis course designer** | Intern Teacher |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;06/2018 - 03/2020  
+**Data analysis course designer** | Intern Teacher |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;06/2018 - 03/2020  
 Beijing Aptech Beida Jade Bird Information Technology Co., Ltd.
 - Designed the outline and cases for data analysis course
 -	Prepared teaching materials and exercises related to historical, financial, job, and e-commerce data analysis
@@ -64,9 +64,9 @@ Xu, Y.\*, Teng, F., & **Liu, Q**. (2017, May). Management information systems fo
 \[Working paper\] Gao, J., **Liu, Q.**, & Huang, WB\*. A Method of Learning Path Generation Based on Knowledge Graph.
 
 ### Awards and Honors
-Excellent Graduate Award in Peking University&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2019  
+Excellent Graduate Award in Peking University&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2019  
 Wang Laoji Scholarship in Peking University&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2018  
-Wusi Youth Scholarship in Peking University&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2016
+Wusi Youth Scholarship in Peking University&nbsp;2016
 
 ### Skills
 Python, SQL, SPSS, C, HTML
