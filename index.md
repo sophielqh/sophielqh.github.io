@@ -79,9 +79,9 @@ Xu, Y.\*, Teng, F., & **Liu, Q**. (2017, May). Management information systems fo
 
 
 ### Awards and Honors
-Excellent Graduate Award in Peking University &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2019  
-Wang Laojii Scholarship in Peking University &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2018  
-Wusi Youth Scholarship in Peking University &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2016
+2019 Excellent Graduate Award in Peking University  
+2018 Wang Laojii Scholarship in Peking University  
+2016 Wusi Youth Scholarship in Peking University
 
 
 ### Skills
