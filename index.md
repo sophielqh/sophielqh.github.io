@@ -1,4 +1,8 @@
-##
+I am a second-year graduate student of Department of Information Management in Peking University, China.  
+I am currently looking for potential Ph.D. positions, please feel free to contact me!  
++86 188-1029-1678 | lqianhui@pku.edu.cn  
+Bldg 34A, Peking University, Beijing, China, 100871
+
 ### Research Interest
 Learning Analytics, Educational Data Mining, Educational Data Science, Adaptive Learning System, AI in Education
 
