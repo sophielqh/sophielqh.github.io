@@ -1,10 +1,9 @@
-I am a second-year graduate student of Department of Information Management in Peking University, China.  
-I am currently looking for potential Ph.D. positions, please feel free to contact me!  
-+86 188-1029-1678 | lqianhui@pku.edu.cn  
-Bldg 34A, Peking University, Beijing, China, 100871
+<center>+86 188-1029-1678 | lqianhui@pku.edu.cn</center>
+<center>Bldg 34A, Peking University, Beijing, China, 100871</center>
 
 ### Research Interest
 Learning Analytics, Educational Data Mining, Educational Data Science, Adaptive Learning System, AI in Education
+
 
 ### Education
 **Peking University, China**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;09/2019 - 07/2021  
@@ -20,6 +19,7 @@ Department of Information Management, exchange semester GPA: **3.78/ 4.3**
 
 **TOEFL** Total 102 (Reading 30, Listening 25, Speaking 22, Writing 25),  
 **GRE** Quantitative 152, Verbal 170, AW 4.5
+
 
 ### Research Experience
 **Video data analysis for preschooler development**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;03/2020 - Present  
@@ -42,6 +42,7 @@ _Advisor: Tong Yang, Assistant Researcher, School of Electronics Engineering and
 Constructed a data stream processing algorithm benchmark platform  
 Developed a word cloud webpage to represent word co-occurrence from 130 million webpages
 
+
 ### Teaching Experience
 **Data analysis course designer** | Intern Teacher |&ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;06/2018 - 03/2020  
 Beijing Aptech Beida Jade Bird Information Technology Co., Ltd.  
@@ -57,6 +58,7 @@ Answered course questions online two hours each semester
 Beijing Chuangzhilu Education Technology Co., Ltd.  
 Recorded high school chemistry video lessons  
 Wrote high school chemistry exercise book
+
 
 ### Publication
 Xiao, R., **Liu, Q.\***, Shang, J., & Huang, WB. A Study of Identifying Student Engagement Based on the ICAP Framework \[in Chinese\]. _Distance Education in China_ \[in press, rejected by LAK2020\].  
@@ -75,17 +77,13 @@ Xu, Y.\*, Teng, F., & **Liu, Q**. (2017, May). Management information systems fo
 
 \[Working paper\] Gao, J., **Liu, Q.**, & Huang, WB\*. A Method of Learning Path Generation Based on Knowledge Graph.
 
+
 ### Awards and Honors
 Excellent Graduate Award in Peking University &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2019  
-Wang Laoji Scholarship in Peking University&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2018  
+Wang Laojin Scholarship in Peking University&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2018  
 Wusi Youth Scholarship in Peking University &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2016
+
 
 ### Skills
 Python, SQL, SPSS, C, HTML
 
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/sophielqh/sophielqh.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
