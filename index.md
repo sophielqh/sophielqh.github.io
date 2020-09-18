@@ -2,7 +2,7 @@
 Learning Analytics, Educational Data Mining, Educational Data Science, Adaptive Learning System, AI in Education
 
 ### Education
-**Peking University, China**          09/2019 – 07/2021    
+**Peking University, China**&nbsp;&nbsp;&nbsp;&nbsp;09/2019 – 07/2021    
 _Master of Information Science_, Department of Information Management, GPA: **3.75/ 4.0**
 
 **Peking University, China**                                                                        09/2015 – 07/2019
