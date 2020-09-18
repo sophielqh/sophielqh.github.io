@@ -2,17 +2,18 @@
 Learning Analytics, Educational Data Mining, Educational Data Science, Adaptive Learning System, AI in Education
 
 ### Education
-**Peking University, China**&nbsp;&nbsp;&nbsp;&nbsp;09/2019 – 07/2021    
+**Peking University, China**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;09/2019 – 07/2021
 _Master of Information Science_, Department of Information Management, GPA: **3.75/ 4.0**
 
-**Peking University, China**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;09/2015 – 07/2019
+**Peking University, China**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;09/2015 – 07/2019
+_Bachelor of Information Management and Information System_,  
+Department of Information Management, GPA: **3.57/ 4.0**
 
-_Bachelor of Information Management and Information System_, Department of Information Management, GPA: **3.57/ 4.0**
-
-**Hong Kong City University, Hong Kong, China**                                                     01/2017 – 06/2017
+**Hong Kong City University, Hong Kong, China**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;01/2017 – 06/2017
 Department of Information Management, exchange semester GPA: **3.78/ 4.3**
 
-**TOEFL** Total 102 (Reading 30, Listening 25, Speaking 22, Writing 25), **GRE** Quantitative 152, Verbal 170, AW 4.5
+**TOEFL** Total 102 (Reading 30, Listening 25, Speaking 22, Writing 25),  
+**GRE** Quantitative 152, Verbal 170, AW 4.5
 
 ### Research Experience
 **Video data analysis for preschooler development** | Research Assistant | Peking University        03/2020 - Present
