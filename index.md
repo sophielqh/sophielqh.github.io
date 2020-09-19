@@ -61,6 +61,8 @@ Wrote high school chemistry exercise book
 
 
 ### Publication
+Gao, J., **Liu, Q.**, & Huang, WB*. \[under review\]. A Method of Learning Path Generation Based on Knowledge Graph. _2021 12th International Conference on E-Education, E-Business, E-Management, and E-Learning_.
+
 Xiao, R., **Liu, Q.\***, Shang, J., & Huang, WB. A Study of Identifying Student Engagement Based on the ICAP Framework \[in Chinese\]. _Distance Education in China_ \[in press, rejected by LAK2020\].  
 
 Xiao, R., **Liu, Q.\***, Shang, J., & Huang, WB. A Study of Identifying Students’ Learning Efficiency with an Online Educational Platform \[in Chinese\]. _Modern Educational Technology_ \[in press, rejected by EDM2019\].  
@@ -74,8 +76,6 @@ Liu, J.\*, Tang, H., **Li, Q.**, Su, A., Liu, Q., & Zhong, C. (2018). Multi-sens
 Yang, H., Yang, M., **Liu, Q.**, & Wang, J\*. (2018, December). Can half the analects govern the world? –Clustering analysis of key concepts in analects. Poster presented in _2018 9th International Conference of Digital Archives and Digital Humanities_.  
 
 Xu, Y.\*, Teng, F., & **Liu, Q**. (2017, May). Management information systems for advertisement based on online-to-offline strategy. In _2017 IEEE/ACIS 16th International Conference on Computer and Information Science (ICIS)_ (pp. 197-202). IEEE.  
-
-\[Working paper\] Gao, J., **Liu, Q.**, & Huang, WB\*. A Method of Learning Path Generation Based on Knowledge Graph.
 
 
 ### Awards and Honors
