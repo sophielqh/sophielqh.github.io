@@ -18,7 +18,7 @@ Department of Information Management, GPA: **3.57/ 4.0**
 Department of Information Management, exchange semester GPA: **3.78/ 4.3**
 
 **TOEFL** Total 102 (Reading 30, Listening 25, Speaking 22, Writing 25)  
-**GRE** Quantitative 152, Verbal 170, AW 4.5
+**GRE** Verbal 152, Quantitative 170, AW 4.5
 
 
 ### Research Experience
