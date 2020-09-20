@@ -1,7 +1,7 @@
-<table rules=none frame=void>
+<table border=none>
   <tr>
     <td width="70%">
-      <h1>Qianhui Liu</h1>
+      <p><b>Qianhui Liu</b></p>
       <p>+86 188-1029-1678</p>
       <p>lqianhui@pku.edu.cn</p>
       <p>Bldg 34A, Peking University, Beijing, China, 100871</p>
