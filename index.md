@@ -1,5 +1,21 @@
+<table rules=none frame=void>
+  <tr>
+    <td width="70%">
+      <h1>Qianhui Liu</h1>
+      <p>+86 188-1029-1678</p>
+      <p>lqianhui@pku.edu.cn</p>
+      <p>Bldg 34A, Peking University, Beijing, China, 100871</p>
+    </td>
+    <td width="30%">
+      <img src="/Sophie at sea.jpg" width="100%">
+    </td>
+  </tr>
+</table>
+
+<!--
 <center>+86 188-1029-1678 | lqianhui@pku.edu.cn</center>
 <center>Bldg 34A, Peking University, Beijing, China, 100871</center>
+-->
 
 ### Research Interest
 Learning Analytics, Educational Data Mining, Educational Data Science, Adaptive Learning System, AI in Education
