@@ -77,13 +77,13 @@ Wrote high school chemistry exercise book
 
 
 ### Publication
-Gao, J., **Liu, Q.**, & Huang, WB*. \[under review\]. A Method of Learning Path Generation Based on Knowledge Graph. _2021 12th International Conference on E-Education, E-Business, E-Management, and E-Learning_.
+Gao, J., **Liu, Q.**, & Huang, WB*. \[under review\]. A method of learning path generation based on knowledge graph. _2021 12th International Conference on E-Education, E-Business, E-Management, and E-Learning_.
 
-Xiao, R., **Liu, Q.\***, Shang, J., & Huang, WB. A Study of Identifying Student Engagement Based on the ICAP Framework \[in Chinese\]. _Distance Education in China_ \[in press, rejected by LAK2020\].  
+Xiao, R., **Liu, Q.\***, Shang, J., & Huang, WB. A study of identifying student engagement based on the ICAP framework \[in Chinese\]. _Distance Education in China_ \[in press, rejected by LAK2020\].  
 
-Xiao, R., **Liu, Q.\***, Shang, J., & Huang, WB. A Study of Identifying Students’ Learning Efficiency with an Online Educational Platform \[in Chinese\]. _Modern Educational Technology_ \[in press, rejected by EDM2019\].  
+Xiao, R., **Liu, Q.\***, Shang, J., & Huang, WB. A study of detecting students’ learning efficiency with an online educational platform \[in Chinese\]. _Modern Educational Technology_ \[in press, rejected by EDM2019\].  
 
-Zou, L., Zhang, S.\*, **Liu, Q.**, Wu, Y., Wan, S., Li, T., et al. (2018). Proposal on energy trade index system establishment and cooperation of countries along the “Belt and Road”\[in Chinese\]. _Coal Geology of China_, _30_(S1), 1-5+15.  
+Zou, L., Zhang, S.\*, **Liu, Q.**, Wu, Y., Wan, S., Li, T., et al. (2018). Proposal on energy trade index system establishment and cooperation of countries along One Belt and One Road\[in Chinese\]. _Coal Geology of China_, _30_(S1), 1-5+15.  
 
 Zou, L.\*, Zhang, S., Wu, Y., **Liu, Q.**, Liu, Z., Yang, G., et al. (2018). The analysis of natural gas trade situation along One Belt and One Road \[in Chinese\]. _Journal of Anhui University of Science and Technology (Social Science)_, _20_(6), 36-45.  
 
