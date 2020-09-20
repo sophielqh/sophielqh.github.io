@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td width="55%">
+    <td width="55%" style="vertical-align: top">
       <h1 style="margin-bottom: 110px;">Qianhui Liu</h1>
       <p><b>+86 188-1029-1678</b></p>
       <p><b>lqianhui@pku.edu.cn</b></p>
