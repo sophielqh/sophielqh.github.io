@@ -11,3 +11,7 @@ table {
 table td {
   border: none;
 }
+
+table > tbody > tr:first-child {
+  vertical-align: top;
+}
