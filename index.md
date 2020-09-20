@@ -1,4 +1,4 @@
-<table bordercolor="#F2F2F2">
+<table>
   <tr>
     <td width="55%">
       <h1>Qianhui Liu</h1>
