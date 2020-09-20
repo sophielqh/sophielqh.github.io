@@ -7,7 +7,7 @@
       <p><b>Bldg 34A, Peking University, Beijing, China, 100871</b></p>
     </td>
     <td width="40%">
-      <img src="/Sophie at sea.jpg" width="100%">
+      <p><img src="/Sophie at sea.jpg" width="100%"></p>
     </td>
   </tr>
 </table>
