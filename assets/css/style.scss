@@ -1,4 +1,7 @@
-@import "jekyll-theme-slate";
+---
+---
+
+@import "{{ site.theme }}";
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -22,8 +25,12 @@ time, mark, audio, video {
 table {
   margin: 0;
   padding: 0;
-  border-style: none;
+  border: none;
   font: inherit;
   vertical-align: baseline;
   text-align: left;
+}
+
+table td {
+  border: none;
 }
