@@ -1,14 +1,18 @@
 <table>
   <tr>
-    <td width="70%">
-      <p><b>Qianhui Liu</b></p>
-      <p>+86 188-1029-1678</p>
-      <p>lqianhui@pku.edu.cn</p>
-      <p>Bldg 34A, Peking University, Beijing, China, 100871</p>
+    <td>Qianhui Liu</td>
+    <td>
+       <img src="/Sophie at sea.jpg" rowspan="4">
     </td>
-    <td width="30%">
-      <img src="/Sophie at sea.jpg" width="100%">
-    </td>
+  </tr>
+  <tr>
+    <td>+86 188-1029-1678</td>
+  </tr>
+  <tr>
+    <td>lqianhui@pku.edu.cn</td>
+  </tr>
+  <tr>
+    <td>Bldg 34A, Peking University, Beijing, China, 100871</td>
   </tr>
 </table>
 
