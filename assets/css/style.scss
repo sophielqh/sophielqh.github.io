@@ -3,6 +3,8 @@
 
 @import "{{ site.theme }}";
 
-table{
-  bordercolor: #F2F2F2;
-}
+table {
+  border: 1px solid #F2F2F2;
+  margin-bottom: 20px;
+  text-align: left;
+ }
