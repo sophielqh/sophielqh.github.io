@@ -77,7 +77,7 @@ Wrote high school chemistry exercise book
 
 
 ### Publication
-Gao, J., **Liu, Q.**, & Huang, WB*. \[under review\]. A method of learning path generation based on knowledge graph. _2021 12th International Conference on E-Education, E-Business, E-Management, and E-Learning_.
+Gao, J., **Liu, Q.**, & Huang, WB*. A method of learning path generation based on knowledge graph. Accepted by _2021 12th International Conference on E-Education, E-Business, E-Management, and E-Learning_.
 
 Xiao, R., **Liu, Q.\***, Shang, J., & Huang, WB. A study of identifying student engagement based on the ICAP framework \[in Chinese\]. _Distance Education in China_ \[in press, rejected by LAK2020\].  
 
