@@ -87,7 +87,7 @@ Zou, L., Zhang, S.\*, **Liu, Q.**, Wu, Y., Wan, S., Li, T., et al. (2018). Propo
 
 Zou, L.\*, Zhang, S., Wu, Y., **Liu, Q.**, Liu, Z., Yang, G., et al. (2018). The analysis of natural gas trade situation along One Belt and One Road \[in Chinese\]. _Journal of Anhui University of Science and Technology (Social Science)_, _20_(6), 36-45.  
 
-Liu, J.\*, Tang, H., **Li, Q.**, Su, A., Liu, Q., & Zhong, C. (2018). Multi-sensor fusion of data for monitoring of Huangtupo landslide in the three Gorges Reservoir (China). _Geomatics, Natural Hazards and Risk_, _9_(1), 881-891.  
+Liu, J.\*, Tang, H., Li, Q., Su, A., **Liu, Q.**, & Zhong, C. (2018). Multi-sensor fusion of data for monitoring of Huangtupo landslide in the three Gorges Reservoir (China). _Geomatics, Natural Hazards and Risk_, _9_(1), 881-891.  
 
 Yang, H., Yang, M., **Liu, Q.**, & Wang, J\*. (2018, December). Can half the analects govern the world? –Clustering analysis of key concepts in analects. Poster presented in _2018 9th International Conference of Digital Archives and Digital Humanities_.  
 
