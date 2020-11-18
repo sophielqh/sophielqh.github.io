@@ -95,7 +95,7 @@ Xu, Y.\*, Teng, F., & **Liu, Q**. (2017, May). Management information systems fo
 
 
 ### Awards and Honors
-2020 Graduate School Scholarship in Peking University
+2020 Graduate School Scholarship in Peking University  
 2019 Excellent Graduate Award in Peking University  
 2018 Wang Laojii Scholarship in Peking University  
 2016 Wusi Youth Scholarship in Peking University
